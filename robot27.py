@@ -23,8 +23,10 @@ def get_response(msg):
 def main():
     @itchat.msg_register(itchat.content.TEXT)
     def tuling_reply(msg):
+        print "Fri>"+msg['Text']
         defaultReply = 'wait'
         reply = get_response(msg['Text'])
+        print "Me>"+reply
         #time.sleep(random.randint(0,30))
         return reply or defaultReply
     itchat.auto_login(enableCmdQR=-2, hotReload=True)
