@@ -30,7 +30,7 @@ def get_response(msg):
 @itchat.msg_register(itchat.content.TEXT)
 def tuling_reply(msg):
     # 默认回复
-    defaultReply = '其实我是个机器人。。我的大脑正在宕机。'
+    defaultReply = '等下'
     # 如果小黄鸡出现问题，那么reply将会是None
     reply = get_response(msg['Text'])
     time.sleep(random.randint(0,30))
