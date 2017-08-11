@@ -1,0 +1,7 @@
+setup.py
+Wechat_AI_Robot.egg-info/PKG-INFO
+Wechat_AI_Robot.egg-info/SOURCES.txt
+Wechat_AI_Robot.egg-info/dependency_links.txt
+Wechat_AI_Robot.egg-info/entry_points.txt
+Wechat_AI_Robot.egg-info/requires.txt
+Wechat_AI_Robot.egg-info/top_level.txt

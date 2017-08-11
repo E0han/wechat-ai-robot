@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: Wechat-AI-Robot
+Version: 1.0
+Summary: Wechat robot
+Home-page: https://github.com/E0han
+Author: 0han
+Author-email: 0han@protonmail.com
+License: MIT Licence
+Description: This scrip is used for fun, you can set up your wechat robot automaticlly thinking and reply
+Keywords: wechat,ai,robot
+Platform: MacOS
